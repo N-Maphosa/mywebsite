@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "True Crime Chronicles",
+    "description": "",
+    "home_page_url": "https://n-maphosa.github.io/mywebsite",
+    "feed_url": "https://n-maphosa.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "N-Maphosa"
+    },
+    "items": [
+    ]
+}

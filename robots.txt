@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://n-maphosa.github.io/mywebsite/sitemap.xml
